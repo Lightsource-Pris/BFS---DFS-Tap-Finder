@@ -1,0 +1,16 @@
+TO RUN THE CODE
+
+Open BFSAgent.ipynb and run the cells to observe the implementation using BFS Algorithm
+open DFSAgent.ipynb and run the cells for DFS Algorithm
+
+The 'Experiments & Results' folder contains animations of results of all experiments (some results were removed because of their large size). It also contains the environment tree-like graphical overview.
+
+In Experiments & Results -> graph.html , blue represents taps with no water sources, green for taps with water sources and red for inaccessible nodes.
+
+environment.py contains configurations for 25nodes while declaring and defining required environmental variables, functions and objects.
+
+environment2.py is similar but contains configuration for bigger contexts - 50 nodes.
+
+GraphTree.ipynb is the code used to display the graphical tree-like overview, it can be run cell by cell for another view
+
+The image files were used in setting up the environment.
